@@ -1,7 +1,6 @@
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import java.awt.Color;
 import java.awt.Graphics;
 
 class Main {
@@ -28,6 +27,5 @@ class Main {
         g.drawString("Hello", 200, 200);
         g.drawRect(150, 50, 100, 100);
         g.fillRect(50, 50, 100, 100);
-
     }
 }
